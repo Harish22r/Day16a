@@ -1,0 +1,66 @@
+.container-fluid {
+    background-color:lightslategray;
+    
+    height: 40px;
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+}
+
+
+.container-fluid div> {
+    width: 100%;
+
+}
+
+.first {
+    width: 70%;
+    border-radius: 20px;
+    height: 450px;
+    margin-top: 70px;
+    background-color:lightsalmon ;
+}
+
+.col-8 {
+    width: 100%;
+}
+
+
+#search {
+    width: 100%;
+    height: 50px;
+    background-color:white;
+    margin-top: 70px;
+    border-radius: 10px;
+}
+
+.box2 {
+    width: 100%;
+    height: 150px;
+    margin-top: 50px;
+    border-radius: 20px;
+    background-color: rgb(128, 118, 118);
+}
+
+.box3 {
+    width: 100%;
+    height: 150px;
+    margin-top: 50px;
+    border-radius: 20px;
+    background-color: gray;
+}
+
+.box4 {
+    width: 100%;
+    height: 150px;
+    margin-top: 50px;
+    border-radius: 20px;
+    background-color: gray;
+}
+.box5{
+    width: 100%;
+    height: 150px;
+    background-color: gray;
+    margin-top: 50px;
+    border-radius: 20px;
+}
